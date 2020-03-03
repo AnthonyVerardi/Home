@@ -160,12 +160,12 @@
 <td>3/3</td>
 <td><a href="todo.md#todo11">#11</a></td>
 <!-- -->
-<td>Dimensionality reduction, cross-validation</td>
+<td>[<a href="Notebooks/addressing_overfitting.ipynb">notebook</a>] Dimensionality reduction, cross-validation</td>
 </tr>
 
 <tr>
 <td>3/5</td>
-<td>Homework 3</td>
+<td><a href="Homeworks/hw3.md">Homework 3</a></td>
 <!-- -->
 <td>Homework 3 review</td>
 </tr>
